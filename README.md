@@ -5,4 +5,6 @@ The Arizona State University (ASU) campus experiences challenges in managing par
 
 ## Data Source
 Kaggle.com
+Collecting ASU car plates by ourselves
+
 
